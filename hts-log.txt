@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Dec 2019 11:12:25 at https://mm-gold.azureedge.net/evolution/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mm-gold.azureedge.net/evolution/index.html -O1 "C:\My Web Sites\Evolution Archive" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:12:46	Error: 	"Not Found" (404) at link https://blog.mukto-mona.com/wp-content/uploads/2009/10/sp_image-572109531-1256357059.gif (from https://mm-gold.azureedge.net/evolution/index.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/QA/evolution_evidence.htm (from https://mm-gold.azureedge.net/evolution/QA/onlytheory.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/QA/evolution_prediction.htm (from https://mm-gold.azureedge.net/evolution/QA/onlytheory.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/QA/evolution_micro_macro.htm (from https://mm-gold.azureedge.net/evolution/QA/evolution_observation_replication.html)
+11:13:15	Error: 	"Not Found" (404) at link https://blog.mukto-mona.com/wp-content/uploads/2010/03/variuos_eye_nature.jpg (from https://mm-gold.azureedge.net/evolution/QA/eye_complex.html)
+11:13:15	Error: 	"Not Found" (404) at link https://blog.mukto-mona.com/wp-content/uploads/2010/03/800px-modele_eye_evolution_nilsson_pelger_1994svg.png (from https://mm-gold.azureedge.net/evolution/QA/eye_complex.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/QA/evolution_progressive.htm (from https://mm-gold.azureedge.net/evolution/QA/giraffe_wing.html)
+11:13:15	Error: 	"Not Found" (404) at link https://blog.mukto-mona.com/wp-content/uploads/2009/10/human_ancestor_timeline.jpg (from https://mm-gold.azureedge.net/evolution/QA/human_monkey_evolution.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/QA/mona.com/project/Biggan_dhormo2008/index.htm (from https://mm-gold.azureedge.net/evolution/QA/evolution_morality.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/QA/evolution_cell_chance.htm (from https://mm-gold.azureedge.net/evolution/QA/abiogenesis_statistics.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/QA/abiogenesis_statistics.htm (from https://mm-gold.azureedge.net/evolution/QA/evolution_cell_chance.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/QA/biggan_dhormo_poripurok.htm (from https://mm-gold.azureedge.net/evolution/QA/zakir_naik.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/QA/evolution_chance.htm (from https://mm-gold.azureedge.net/evolution/QA/hoyle_boeing.html)
+11:13:15	Error: 	"Not Found" (404) at link https://mm-gold.azureedge.net/evolution/project/muktanwesa/1st_issue/mohaplaban_ananta.html (from https://mm-gold.azureedge.net/evolution/QA/noas_ark.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 106 links scanned, 91 files written (3463383 bytes overall) [1958206 bytes received at 39164 bytes/sec], 2177871 bytes transferred using HTTP compression in 60 files, ratio 18%, 17.6 requests per connection
+(14 errors, 0 warnings, 0 messages)
